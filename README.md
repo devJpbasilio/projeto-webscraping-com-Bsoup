@@ -13,4 +13,4 @@ Este projeto tem como objetivo extrair os títulos e preços dos livros de um si
 3. Criação de um DataFrame utilizando a biblioteca Pandas.
 4. Exibição dos dados extraídos.
 
-![DataFrame](imagem/dataframe.png)
+![Data Frame](imagem/dataframe.png)
